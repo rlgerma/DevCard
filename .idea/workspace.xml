@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31107396-ae0c-4830-b47b-a181477a8fc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1miUpiIqSnuIHyfBrqjYTLib61E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31107396-ae0c-4830-b47b-a181477a8fc4" name="Default Changelist" comment="" />
+      <created>1609976089865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609976089865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="929" y="-1100" width="1720" height="1000" key="AVDManager" timestamp="1610048218665">
+      <screen x="829" y="-1200" width="1920" height="1200" />
+    </state>
+    <state x="929" y="-1100" width="1720" height="1000" key="AVDManager/829.-1200.1920.1200/0.0.1680.1050/-1091.-1200.1920.1200@829.-1200.1920.1200" timestamp="1610048218665" />
+    <state width="1868" height="331" key="GridCell.Tab.0.bottom" timestamp="1610475801581">
+      <screen x="829" y="-1200" width="1920" height="1200" />
+    </state>
+    <state width="1868" height="331" key="GridCell.Tab.0.bottom/829.-1200.1920.1200/0.0.1680.1050/-1091.-1200.1920.1200@829.-1200.1920.1200" timestamp="1610475801581" />
+    <state width="1868" height="331" key="GridCell.Tab.0.bottom/829.-1200.1920.1200/0.25.1680.1025/-1091.-1175.1920.1175@829.-1200.1920.1200" timestamp="1610058611633" />
+    <state width="1868" height="331" key="GridCell.Tab.0.center" timestamp="1610475801580">
+      <screen x="829" y="-1200" width="1920" height="1200" />
+    </state>
+    <state width="1868" height="331" key="GridCell.Tab.0.center/829.-1200.1920.1200/0.0.1680.1050/-1091.-1200.1920.1200@829.-1200.1920.1200" timestamp="1610475801580" />
+    <state width="1868" height="331" key="GridCell.Tab.0.center/829.-1200.1920.1200/0.25.1680.1025/-1091.-1175.1920.1175@829.-1200.1920.1200" timestamp="1610058611632" />
+    <state width="1868" height="331" key="GridCell.Tab.0.left" timestamp="1610475801580">
+      <screen x="829" y="-1200" width="1920" height="1200" />
+    </state>
+    <state width="1868" height="331" key="GridCell.Tab.0.left/829.-1200.1920.1200/0.0.1680.1050/-1091.-1200.1920.1200@829.-1200.1920.1200" timestamp="1610475801580" />
+    <state width="1868" height="331" key="GridCell.Tab.0.left/829.-1200.1920.1200/0.25.1680.1025/-1091.-1175.1920.1175@829.-1200.1920.1200" timestamp="1610058611631" />
+    <state width="1868" height="331" key="GridCell.Tab.0.right" timestamp="1610475801581">
+      <screen x="829" y="-1200" width="1920" height="1200" />
+    </state>
+    <state width="1868" height="331" key="GridCell.Tab.0.right/829.-1200.1920.1200/0.0.1680.1050/-1091.-1200.1920.1200@829.-1200.1920.1200" timestamp="1610475801581" />
+    <state width="1868" height="331" key="GridCell.Tab.0.right/829.-1200.1920.1200/0.25.1680.1025/-1091.-1175.1920.1175@829.-1200.1920.1200" timestamp="1610058611633" />
+    <state x="1218" y="-1052" key="SettingsEditor" timestamp="1610472922611">
+      <screen x="829" y="-1200" width="1920" height="1200" />
+    </state>
+    <state x="1218" y="-1052" key="SettingsEditor/829.-1200.1920.1200/0.0.1680.1050/-1091.-1200.1920.1200@829.-1200.1920.1200" timestamp="1610472922611" />
+    <state x="1370" y="-318" key="run.anything.popup" timestamp="1609976274781">
+      <screen x="829" y="-1200" width="1920" height="1200" />
+    </state>
+    <state x="1370" y="-318" key="run.anything.popup/829.-1200.1920.1200/0.0.1680.1050/-1091.-1200.1920.1200@829.-1200.1920.1200" timestamp="1609976274781" />
+  </component>
+</project>
